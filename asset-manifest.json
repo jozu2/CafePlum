@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CafePlum/static/css/main.b19b6e45.css",
-    "main.js": "/CafePlum/static/js/main.015a9cd1.js",
+    "main.css": "/CafePlum/static/css/main.1405d8a0.css",
+    "main.js": "/CafePlum/static/js/main.5d2e5c97.js",
     "static/media/Waffle.jpg": "/CafePlum/static/media/Waffle.dbeadb8a65972fdac8bb.jpg",
     "static/media/CakeOrder.png": "/CafePlum/static/media/CakeOrder.2cbc31cb1df6941ff363.png",
     "static/media/Donut.jpg": "/CafePlum/static/media/Donut.1cca35cf363cdc8ad38b.jpg",
@@ -12,11 +12,11 @@
     "static/media/best1.jpg": "/CafePlum/static/media/best1.7027662dfc9028d051c9.jpg",
     "static/media/MilkT.jpg": "/CafePlum/static/media/MilkT.2dc4372dfc33fe7181bf.jpg",
     "index.html": "/CafePlum/index.html",
-    "main.b19b6e45.css.map": "/CafePlum/static/css/main.b19b6e45.css.map",
-    "main.015a9cd1.js.map": "/CafePlum/static/js/main.015a9cd1.js.map"
+    "main.1405d8a0.css.map": "/CafePlum/static/css/main.1405d8a0.css.map",
+    "main.5d2e5c97.js.map": "/CafePlum/static/js/main.5d2e5c97.js.map"
   },
   "entrypoints": [
-    "static/css/main.b19b6e45.css",
-    "static/js/main.015a9cd1.js"
+    "static/css/main.1405d8a0.css",
+    "static/js/main.5d2e5c97.js"
   ]
 }
