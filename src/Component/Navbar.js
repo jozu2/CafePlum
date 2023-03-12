@@ -1,13 +1,13 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
-import { FiShoppingCart } from 'react-icons/fi';
-import { BsPersonCircle } from 'react-icons/bs';
-import './Navbar.scss';
+import React from "react";
+import { Link } from "react-router-dom";
+import { FiShoppingCart } from "react-icons/fi";
+import { BsPersonCircle } from "react-icons/bs";
+import "./Navbar.scss";
 function Navbar() {
   return (
     <div className="container">
       <div className="logo">
-        <Link to="/">
+        <Link to="CafePlum">
           <h1>Cafe Plum</h1> <span>est 2022</span>
         </Link>
       </div>

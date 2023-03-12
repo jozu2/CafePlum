@@ -14,13 +14,13 @@ function App() {
     <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="Cake" element={<Cake />} />
-        <Route path="Donut" element={<Donuts />} />
-        <Route path="Espresso" element={<Espresso />} />
-        <Route path="MilkTea" element={<MilkTea />} />
-        <Route path="Waffles" element={<Waffles />} />
-        <Route path="Pie" element={<Pie />} />
+        <Route path="/CafePlum" element={<Home />} />
+        <Route path="/CafePlum/Cake" element={<Cake />} />
+        <Route path="/CafePlum/Donut" element={<Donuts />} />
+        <Route path="/CafePlum/Espresso" element={<Espresso />} />
+        <Route path="/CafePlum/MilkTea" element={<MilkTea />} />
+        <Route path="/CafePlum/Waffles" element={<Waffles />} />
+        <Route path="/CafePlum/Pie" element={<Pie />} />
       </Routes>
       <Footer />
     </Router>
