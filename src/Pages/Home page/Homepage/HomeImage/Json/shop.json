@@ -1,0 +1,75 @@
+[
+  {
+    "prod": "Choco IceCream Cake",
+    "price": 18,
+    "img": "https://thumbs.dreamstime.com/b/chocolate-ice-cream-cake-selective-focus-chocolate-ice-cream-cake-175643276.jpg",
+    "id": 1
+  },
+  {
+    "prod": "Cherry Pie",
+    "price": 14,
+    "img": "https://www.thespruceeats.com/thmb/wiFS2z1vLTt3fHKDVaka5KiWshI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-cherry-pie-recipe-995136-14-dfe79487adf64a848a49dd07983b6614.jpg",
+    "id": 2
+  },
+  {
+    "prod": "Classic Waffles",
+    "price": 9,
+    "img": "https://images.immediate.co.uk/production/volatile/sites/30/2022/09/Classic-Waffles-0ae28b2.jpg",
+    "id": 3
+  },
+  {
+    "prod": "White cream Cake",
+    "price": 16,
+    "img": "https://cakebycourtney.com/wp-content/uploads/2018/03/IMG_4289.jpg",
+    "id": 4
+  },
+  {
+    "prod": "Strawberry Cake",
+    "price": 15,
+    "img": "https://i8b2m3d9.stackpathcdn.com/wp-content/uploads/2020/08/Strawberry_Shortcake_5140sq.jpg",
+    "id": 5
+  },
+  {
+    "prod": "Oreo Bubble Milktea",
+    "price": 9,
+    "img": "https://myveganminimalist.com/wp-content/uploads/2022/05/Oreo-Bubble-Milk-Tea-Boba-12.jpg",
+    "id": 6
+  },
+  {
+    "prod": "Red velvet cake",
+    "price": 17,
+    "img": "https://www.thecookingfoodie.com/Images/Site/Products/240265.jpg",
+    "id": 7
+  },
+  {
+    "prod": "Carrot cake",
+    "price": 19,
+    "img": "https://preppykitchen.com/wp-content/uploads/2020/04/Carrot-cake-Square-1200px-preppy-kitchen-1.jpg",
+    "id": 8
+  },
+  {
+    "prod": "Macha Milk Tea",
+    "price": 7,
+    "img": "https://www.honestfoodtalks.com/wp-content/uploads/2022/02/Holding-a-cup-of-Japanese-green-tea-boba-drink-1-1.jpg",
+    "id": 9
+  },
+  {
+    "prod": "Vanilla Cake",
+    "price": 17,
+    "img": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/my_perfect_vanilla_cake_2_0.jpg",
+    "id": 10
+  },
+  {
+    "prod": "Cheesecake",
+    "price": 17,
+    "img": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/5/27/0/IGSP01_25282_s4x3.jpg.rend.hgtvcom.616.462.suffix/1485531666198.jpeg",
+    "id": 11
+  },
+
+  {
+    "prod": "Affogato Espresso",
+    "price": 8,
+    "img": "https://www.tasteofhome.com/wp-content/uploads/2022/09/TOH-Affogato-square-2R7A8921-jamie-thrower-for-taste-of-home-JVedit.jpg",
+    "id": 12
+  }
+]

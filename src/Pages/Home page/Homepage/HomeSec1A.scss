@@ -1,0 +1,179 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&family=Short+Stack&display=swap");
+
+@media screen and (min-width: 200px) {
+  .custom-order-container {
+    .bg-co {
+      border-radius: 30px;
+      width: 100%;
+      margin-top: 3em;
+      background-color: rgb(161, 96, 112);
+      .div-co-img {
+        background-color: rgb(255, 237, 246);
+        border-radius: 30px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        height: 250px;
+        img {
+          width: 100%;
+          max-height: 250px;
+          object-fit: cover;
+          background-position: center;
+          background-repeat: no-repeat;
+        }
+      }
+      .co-description-container {
+        text-align: center;
+        padding: 2rem 1.5rem;
+        color: white;
+
+        .co-description {
+          font-size: 0.9rem;
+          color: white;
+          font-family: "Inter";
+          h1 {
+            font-size: 1.2rem;
+            padding-bottom: 0.5rem;
+            color: white;
+          }
+        }
+
+        button {
+          cursor: pointer;
+
+          background-color: transparent;
+          width: 7rem;
+          border: white 0.145em solid;
+          border-radius: 1.25em;
+          padding: 4px;
+          color: white;
+          font-size: 0.9rem;
+          letter-spacing: 0.06em;
+          margin-top: 1rem;
+        }
+        button:hover {
+          background-color: white;
+          color: black;
+          border-color: black;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .custom-order-container {
+    .bg-co {
+      width: 95%;
+      margin-left: 2.5%;
+      display: grid;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      grid-template-columns: repeat(2, 50%);
+      height: 250px;
+      .div-co-img {
+        border-bottom-left-radius: 30px;
+        border-top-right-radius: 0;
+        height: 250px;
+        img {
+          object-fit: contain;
+        }
+      }
+      .co-description-container {
+        padding: 2rem 1.5rem;
+        color: white;
+
+        .co-description {
+          font-size: 1rem;
+          h1 {
+            font-size: 1.4rem;
+            padding-bottom: 0.5rem;
+          }
+        }
+
+        button {
+          font-family: "Patrick Hand SC", cursive;
+          background-color: transparent;
+          width: 7rem;
+          border: white 0.145em solid;
+          border-radius: 1.25em;
+          padding: 5px;
+          color: white;
+          font-size: 1.1rem;
+          letter-spacing: 0.06em;
+          margin-top: 1rem;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 950px) {
+  .custom-order-container {
+    .bg-co {
+      height: 285px;
+      .div-co-img {
+        height: 285px;
+        img {
+          max-height: 285px;
+          object-fit: contain;
+        }
+      }
+      .co-description-container {
+        padding: 2rem 1.5rem;
+        color: white;
+
+        .co-description {
+          font-size: 1.1rem;
+          h1 {
+            font-size: 1.5rem;
+            padding-bottom: 0.5rem;
+          }
+        }
+
+        button {
+          padding: 5px;
+
+          font-size: 1.1rem;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1360px) {
+  .custom-order-container {
+    .bg-co {
+      width: 90%;
+      margin-left: 5%;
+      height: 285px;
+      .div-co-img {
+        height: 285px;
+        img {
+          max-height: 285px;
+          object-fit: contain;
+        }
+      }
+      .co-description-container {
+        padding: 2rem 5rem;
+
+        color: white;
+
+        .co-description {
+          font-size: 1.3rem;
+
+          h1 {
+            font-size: 1.8rem;
+            padding-bottom: 0.5rem;
+          }
+        }
+
+        button {
+          padding: 5px;
+
+          font-size: 1.1rem;
+        }
+      }
+    }
+  }
+}
